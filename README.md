@@ -19,6 +19,13 @@
   <img align="center" alt="Samuel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div><br>
 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+
+
 👨‍💻 Sou apaixonado por transformar ideias em código elegante e funcional. Minha jornada no mundo da programação começou com um fascínio pela criação de interfaces interativas e experiências incríveis para os usuários.
 
 🌐 Aprendizado contínuo é o meu lema. Sempre estou explorando novas tecnologias, acompanhando as últimas tendências e aprimorando minhas habilidades para oferecer soluções melhores e mais eficazes.
