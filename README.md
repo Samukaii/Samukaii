@@ -14,7 +14,7 @@
 
 ## Projetos Destacados
 
-- [What to do?](https://github.com/samukaii/What-to-do): Um projeto de gerenciamento de tarefas e produtividade.
+- [What to do?](https://github.com/samukaii/What-to-do) : Um projeto de gerenciamento de tarefas e produtividade.
 
 ## Conecte-se Comigo
 
