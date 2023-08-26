@@ -24,10 +24,12 @@
 
 💼 LinkedIn: [Samuel Alejandro](https://www.linkedin.com/in/samuel-alejandro/)
 
-<a href="https://www.instagram.com/aline.barbosa__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/alejandro_samuka" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/63UQFx8k" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:alinnee_barbosa@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alinnee_barbosa@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alinebarbosa-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  [![Desenvolvido com Angular](https://img.shields.io/badge/Desenvolvido%20com-Angular-DD0031?style=for-the-badge&logo=angular)](https://angular.io/)
+
 
 📫 Fique à vontade para me enviar um e-mail em [samuelalejandro.dev@gmail.com](mailto:samuelalejandro.dev@gmail.com) para qualquer pergunta, colaboração ou apenas para uma conversa divertida sobre desenvolvimento!
 
