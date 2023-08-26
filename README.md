@@ -17,8 +17,7 @@
   <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Samuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Samuel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-</div>
-
+</div><br>
 
 👨‍💻 Sou apaixonado por transformar ideias em código elegante e funcional. Minha jornada no mundo da programação começou com um fascínio pela criação de interfaces interativas e experiências incríveis para os usuários.
 
