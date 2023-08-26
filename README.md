@@ -28,10 +28,6 @@
 
 🔗 Vamos nos conectar e explorar o incrível mundo do desenvolvimento front-end, compartilhar conhecimento e discutir ideias. Siga-me no GitHub e nas redes sociais para ficar atualizado sobre minhas aventuras de código!
 
-📸 Instagram: [@alejwndro](https://www.instagram.com/alejandro_samuka/)
-
-💼 LinkedIn: [Samuel Alejandro](https://www.linkedin.com/in/samuel-alejandro/)
-
 <a href="https://www.instagram.com/alejandro_samuka" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/pP8WxCwP" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href="mailto:samuelalejandro.dev@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
