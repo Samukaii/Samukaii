@@ -19,6 +19,7 @@
   <img align="center" alt="Samuel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
+
 👨‍💻 Sou apaixonado por transformar ideias em código elegante e funcional. Minha jornada no mundo da programação começou com um fascínio pela criação de interfaces interativas e experiências incríveis para os usuários.
 
 🌐 Aprendizado contínuo é o meu lema. Sempre estou explorando novas tecnologias, acompanhando as últimas tendências e aprimorando minhas habilidades para oferecer soluções melhores e mais eficazes.
