@@ -14,7 +14,6 @@
 
 ## Projetos Destacados
 
-- [AwesomeAngularTabs](https://github.com/samukaii/AwesomeAngularTabs): Explorando abas dinâmicas com Angular.
 - [What to do?](https://github.com/samukaii/What-to-do): Um projeto de gerenciamento de tarefas e produtividade.
 
 ## Conecte-se Comigo
