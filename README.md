@@ -23,7 +23,7 @@
 
 📸 Instagram: [@alejwndro](https://www.instagram.com/alejandro_samuka/)
 
-💼 LinkedIn: [Samuel Alejandro](https://www.linkedin.com/in/samuel-alejandro/).
+💼 LinkedIn: [Samuel Alejandro](https://www.linkedin.com/in/samuel-alejandro/)
 
 📫 Fique à vontade para me enviar um e-mail em [samuelalejandro.dev@gmail.com](mailto:samuelalejandro.dev@gmail.com) para qualquer pergunta, colaboração ou apenas para uma conversa divertida sobre desenvolvimento!
 
