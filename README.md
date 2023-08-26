@@ -21,8 +21,8 @@
 
 🔗 Vamos nos conectar e explorar o incrível mundo do desenvolvimento front-end, compartilhar conhecimento e discutir ideias. Siga-me no GitHub e nas redes sociais para ficar atualizado sobre minhas aventuras de código!
 
-📸 Instagram: [@alejwndro](https://www.instagram.com/alejandro_samuka/)
-💼 LinkedIn: [Samuel Alejandro](https://www.linkedin.com/in/samuel-alejandro/)
+📸 Instagram: [@alejwndro](https://www.instagram.com/alejandro_samuka/).
+💼 LinkedIn: [Samuel Alejandro](https://www.linkedin.com/in/samuel-alejandro/).
 
 📫 Fique à vontade para me enviar um e-mail em [samuelalejandro.dev@gmail.com](mailto:samuelalejandro.dev@gmail.com) para qualquer pergunta, colaboração ou apenas para uma conversa divertida sobre desenvolvimento!
 
