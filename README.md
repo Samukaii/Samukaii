@@ -30,7 +30,7 @@
 
 <a href="https://www.instagram.com/alejandro_samuka" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/pP8WxCwP" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href="mailto:samuelalejandro.dev@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=gmail&labelColor=EA4335"></a>
+<a href="mailto:samuelalejandro.dev@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="www.linkedin.com/in/samuel-alejandro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 📫 Fique à vontade para me enviar um e-mail em [samuelalejandro.dev@gmail.com](mailto:samuelalejandro.dev@gmail.com) para qualquer pergunta, colaboração ou apenas para uma conversa divertida sobre desenvolvimento!
