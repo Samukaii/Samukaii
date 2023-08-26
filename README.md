@@ -29,6 +29,8 @@
   <a href = "mailto:alinnee_barbosa@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alinebarbosa-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   [![Desenvolvido com Angular](https://img.shields.io/badge/Desenvolvido%20com-Angular-DD0031?style=for-the-badge&logo=angular)](https://angular.io/)
+  [![Feito com Angular](https://img.shields.io/badge/Feito%20com-Angular-red?logo=angular)](https://angular.io/)
+
 
 
 📫 Fique à vontade para me enviar um e-mail em [samuelalejandro.dev@gmail.com](mailto:samuelalejandro.dev@gmail.com) para qualquer pergunta, colaboração ou apenas para uma conversa divertida sobre desenvolvimento!
