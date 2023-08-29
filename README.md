@@ -23,7 +23,9 @@
 
 🌐 Sou viciado em aprender. Sempre estou explorando novas tecnologias, acompanhando as últimas tendências e aprimorando minhas habilidades para oferecer soluções melhores e mais eficazes.
 
-🎨 Além do desenvolvimento, tenho um interesse profundo em design de interface e usabilidade. Acredito que a estética e principalmente a intuitividade de uma aplicação é essencial para facilitar a vida dos usuários
+🎨 Além do desenvolvimento, tenho um interesse profundo em design de interface e usabilidade. Acredito que a estética e principalmente a intuitividade de uma aplicação é essencial para facilitar a vida dos usuários.
+
+🏗 Também adoro conversar sobre arquitetura, código limpo e boas práticas. Acredito fortemente que um código bem escrito e estruturado torna o desenvolvimento de um produto muito mais saudável e sustentável, garantindo muitos anos de evolução.
 ## Projetos Destacados
 
 - [What to do?](https://github.com/samukaii/What-to-do) : Um projeto de gerenciamento de tarefas e produtividade.
