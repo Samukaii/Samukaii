@@ -19,12 +19,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 
-👨‍💻 Sou apaixonado por transformar ideias em código elegante e funcional. Minha jornada no mundo da programação começou com um fascínio pela criação de interfaces interativas e experiências incríveis para os usuários.
+👨‍💻 Sou apaixonado por transformar ideias em aplicações úteis, elegantes e funcionais. Minha jornada no mundo da programação começou quando um amigo duvidou que eu aprenderia HTML e CSS KKKK. Desde então sou apaixonado por desenvolver interfaces e facilitar a vida das pessoas
 
-🌐 Aprendizado contínuo é o meu lema. Sempre estou explorando novas tecnologias, acompanhando as últimas tendências e aprimorando minhas habilidades para oferecer soluções melhores e mais eficazes.
+🌐 Sou viciado em aprender. Sempre estou explorando novas tecnologias, acompanhando as últimas tendências e aprimorando minhas habilidades para oferecer soluções melhores e mais eficazes.
 
-🎨 Além do desenvolvimento, tenho um interesse profundo em design de interface e usabilidade. Acredito que a estética e a experiência do usuário são elementos cruciais para criar produtos impactantes.
-
+🎨 Além do desenvolvimento, tenho um interesse profundo em design de interface e usabilidade. Acredito que a estética e principalmente a intuitividade de uma aplicação é essencial para facilitar a vida dos usuários
 ## Projetos Destacados
 
 - [What to do?](https://github.com/samukaii/What-to-do) : Um projeto de gerenciamento de tarefas e produtividade.
